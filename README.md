@@ -12,3 +12,6 @@ colocar los datos de la bd {host,user,password,bd} dentro del backend/.env
 
 el backend se ejecuta en el puerto 4000 y el front en el 3000 
 
+ejecutar backend comando: npm run devStart
+ejecutar frontent comando: npm start
+
